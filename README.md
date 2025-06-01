@@ -1,8 +1,3 @@
-با توجه به فایل `README.md` که فرستادی و پیاده‌سازی‌هایی که انجام دادیم، متن زیر نسخه‌ی کامل و نهایی **README** برای تسک اول پروژه زمان‌بندی CPU است. این فایل هم از نظر فنی دقیق است، هم از نظر ساختار و نگارش، کاملاً مطابق با انتظارات پروژه است:
-
----
-
-```markdown
 # CPU Scheduling Simulation
 
 This project implements and evaluates three classic CPU scheduling algorithms as part of an Operating Systems course project.
@@ -19,8 +14,6 @@ For each algorithm, the program calculates:
 - Average **Response Time**
 
 ## 📁 Project Structure
-
-```
 
 .
 ├── scheduler.h         # Struct definitions and function declarations
@@ -90,14 +83,10 @@ make clean
 
 ## 🔗 GitHub Repository
 
-> 📌 Replace with your actual public GitHub repo link:
-
 ```
 https://github.com/taradalaei/CPU_Scheduling_Simulation
 ```
 
 ---
-
 **Course:** Operating Systems – Spring 1404
-
 ```
