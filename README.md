@@ -93,7 +93,7 @@ make clean
 > 📌 Replace with your actual public GitHub repo link:
 
 ```
-https://github.com/YOUR_USERNAME/CPU_Scheduling_Simulation
+https://github.com/taradalaei/CPU_Scheduling_Simulation
 ```
 
 ---
