@@ -17,9 +17,13 @@ For each algorithm, the program calculates:
 
 .
 ├── scheduler.h         # Struct definitions and function declarations
+
 ├── scheduler.c         # Implementation of scheduling algorithms
+
 ├── scheduler\_test.c    # Comprehensive test cases with assertions
+
 ├── Makefile            # Build script to compile and run tests
+
 └── README.md           # This documentation file
 
 ````
@@ -89,4 +93,3 @@ https://github.com/taradalaei/CPU_Scheduling_Simulation
 
 ---
 **Course:** Operating Systems – Spring 1404
-```
